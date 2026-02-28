@@ -18,12 +18,12 @@ spotify_analysis/
 |
 ├── data/
 │   ├── raw/
-│   │   ├── spotify_artist_data_2023.csv
-│   │   └── spotify_data_12_20_2023.csv
+│   │   ├── spotify_artist_data_2023.csv (Due to the size of the file, it is unable to be uploaded.)
+│   │   └── spotify_data_12_20_2023.csv (Due to the size of the file, it is unable to be uploaded.)
 │   │
 │   ├── cleaned/
-│   │   ├── spotify_cleaned.csv
-│   │   └── spotify_genres.csv
+│   │   ├── spotify_cleaned.csv (Due to the size of the file, it is unable to be uploaded.)
+│   │   └── spotify_genres.csv (Due to the size of the file, it is unable to be uploaded.)
 |   |   └── explicit_by_decade.png
 │   │   └── genres_2023.png
 │   │   └── mood_by_decade.png
@@ -31,7 +31,7 @@ spotify_analysis/
 │   │   └── top_artists.png
 |   |
 │   └── db/
-│       └── spotify.db
+│       └── spotify.db (Due to the size of the file, it is unable to be uploaded.)
 │
 ├── exports/
 │   ├── q1.csv
