@@ -64,6 +64,5 @@ spotify_analysis/
 - Who were the most popular artists in 2023?
 - Has music gotten sadder over the decades?
 - Have songs become more explicit over time?
-- What old songs were still popular in 2023?
 
 **By: Fatema Al Yassin**
